@@ -1,0 +1,1 @@
+texts from first.txt and second.txt: this is a first text file,  this is a second text file
